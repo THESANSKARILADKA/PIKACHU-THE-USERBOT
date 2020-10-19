@@ -1,7 +1,7 @@
-# CrackBot
+# Pikachu The Userbot
 
 ## Use Repo At Your Own Risk...
-![Enterprise](https://telegra.ph/file/3feaa0629756e0e45a2b7.jpg)
+![Enterprise](https://telegra.ph/)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
@@ -10,12 +10,10 @@
 Best User Bot To Manage Your Telegram Account 
 ## Best, Powerful, And Safest Userbot.
 
-## CrackBot By [Crackexy](t.me/Crackexy).
+## By #TEAM_PIKACHU
 
 ### For any query or to know how it works join Group And Channel 
 
-<a href="https://t.me/CrackbotSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/CrackbotUB"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## HOW TO DEPLOY 
 
@@ -26,7 +24,7 @@ Best User Bot To Manage Your Telegram Account
 ## Installing Heroku 
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Crackexy/CrackBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/THESANSKARILADKA/PIKACHU-THE-USERBOT)
 
 ## GET STRING SESSION FROM REPL RUN 
 
@@ -37,7 +35,7 @@ Best User Bot To Manage Your Telegram Account
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/starkGang/Fridayuserbot
+git clone https://github.com/!/?
 cd Userbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
